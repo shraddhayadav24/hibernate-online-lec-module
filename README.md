@@ -1,1 +1,0 @@
-# hibernate-online-lec-module
